@@ -1,13 +1,13 @@
 ---
 name: Process Improvement
-about: Recommend improvements to our process.
+about: Standard process improvement template.
 title: ''
 labels: process
 assignees: ''
 
 ---
 
-### Description
+## Description
 
-### Action Steps
+## Action Steps
 - [ ]
