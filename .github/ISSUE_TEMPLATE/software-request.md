@@ -7,6 +7,9 @@ assignees: dcolina900lbs
 
 ---
 
+## Specifications
+<*insert specifics like cost, subscription model, supported platforms here*>
+
 ## Reason for Request
 
 ## Useful Links
