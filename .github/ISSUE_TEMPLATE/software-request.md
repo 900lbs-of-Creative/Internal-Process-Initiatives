@@ -3,7 +3,7 @@ name: Software Request
 about: Standard software request template.
 title: ''
 labels: process, software
-assignees: dcolina900lbs, 900lbs
+assignees: 900lbs, dcolina900lbs
 
 ---
 
