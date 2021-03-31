@@ -3,12 +3,12 @@ name: Documentation
 about: Standard documentation improvement template.
 title: ''
 labels: documentation
-assignees: dcolina900lbs, 900lbs
+assignees: 900lbs, dcolina900lbs
 
 ---
 
 ## Description
 <*insert description of the documentation needed here*>
 
-## Action Steps
-- [ ] <*insert steps required to resolve the given improvement*>
+## Topics to Cover
+- [ ] <*insert topics to cover in the documentation*>
