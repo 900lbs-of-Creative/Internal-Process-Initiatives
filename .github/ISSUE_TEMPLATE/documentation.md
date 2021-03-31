@@ -3,7 +3,7 @@ name: Documentation
 about: Standard documentation improvement template.
 title: ''
 labels: documentation
-assignees: dcolina900lbs
+assignees: dcolina900lbs, 900lbs
 
 ---
 
